@@ -1,12 +1,20 @@
 /*
- Francisco Pereira - 2201526
- Gonçalo Santos - 2202748
+Francisco Pereira - 2201526
+Gonçalo Santos - 2202748
 IPLEIRIA - Instituto Politécnico de Leiria
 ESTG - Escola Superior de Tecnologia e Gestão
-LEEC- Licenciatura em Engenharia Eletrotécnica e de Computadores
+LEAU - Licenciatura em Engenharia Automóvel
 SEEV - Sistemas Elétricos e Eletrónicos de Veículos
 
- Pretende-se  neste  trabalho  prático  a  implementação  de um  algoritmo  que  permita  implementar um sensor   para monitorizar a distância a que se encontra um determinado objeto. São utilizados 3 sensores de distância ultrassónico HC-SR04 (fazem a medição da distância), no LCD é apresentado o valor da distância e é feito o preenchimento de quadrados, referentes á escala de medição. Durante todo o funcionamento do sistema existe um Buzzer que é ativado assim que a distância medida é inferior a um determinado valor, estabelecido pelo utilizador, existem também 4 botões que permitem a alteração do valor da distância máxima e mínima lida pelo sensor.
+ Pretende-se  neste  trabalho  prático  a  implementação
+ de um  algoritmo  que  permita  implementar um sensor para monitorizar
+ a distância a que se encontra um determinado objeto. 
+ São utilizados 3 sensores de distância ultrassónico HC-SR04 (fazem a medição da distância),
+ no LCD é apresentado o valor da distância e é feito o preenchimento de quadrados,
+ referentes á escala de medição.
+ Durante todo o funcionamento do sistema existe um Buzzer que é ativado assim que a distância
+ medida é inferior a um determinado valor (50 cm), este valor pode ser estabelecido pelo utilizador, 
+ existem também 4 botões que permitem a alteração do valor da distância máxima e mínima lida pelo sensor.
 */
 
 
