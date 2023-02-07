@@ -15,6 +15,8 @@ SEEV - Sistemas Elétricos e Eletrónicos de Veículos
  Durante todo o funcionamento do sistema existe um Buzzer que é ativado assim que a distância
  medida é inferior a um determinado valor (50 cm), este valor pode ser estabelecido pelo utilizador, 
  existem também 4 botões que permitem a alteração do valor da distância máxima e mínima lida pelo sensor.
+ 
+ LINK: https://www.youtube.com/watch?v=w6XgTSf4nqI
 */
 
 
